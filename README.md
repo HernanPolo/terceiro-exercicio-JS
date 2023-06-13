@@ -1,4 +1,4 @@
-# **EXERCIO NUMERO 3 DO TRELLO**
+# **EXERCICIO NUMERO 3 DO TRELLO**
 ## Codigo JavaScript 
 
 _Uso de **JS** pra criar e executar o código e **HTML** para pegar os dados do usuário do site e exibir as mensagens que precisar._
